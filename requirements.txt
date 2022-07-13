@@ -1,0 +1,13 @@
+tqdm
+pandas
+openpyxl
+numpy
+matplotlib
+pyqt5
+autopep8
+opencv-python
+cython
+cmake
+dlib
+screeninfo
+tensorflow
